@@ -1,4 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago and that's absolutely true.
 So, What's up?
 Hmmm, you don't feel like talking. Ok!
-This is a change made through simulation.
+(This is a change made through simulation.)
+Well, I am Fine. See ya!
+A new change that is about to be overwritten by a pull. Warn me to commit or stash Git!
